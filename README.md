@@ -19,7 +19,7 @@ This is a website for a fictional resturant with the aim being:
 
 ## Got a Demo?  
 
-Of course! The live demo can be found [here](https://syst3m-failur3.github.io/Furusato-restaurant-page/)
+Of course! The live demo can be found [here](https://cr-booker.github.io/Furusato-restaurant-page/)
 
 ## How do i get started working on this?
 Feel like doing some tinkering? Getting setup is super easy.  
@@ -36,4 +36,4 @@ Feel like doing some tinkering? Getting setup is super easy.
 ## License
 
 This project is made available under the GNU General Public License v3 (GPLv3)  
-Click [here](https://github.com/syst3m-failur3/Furusato-restaurant-page/blob/main/LICENSE) for more details.
+Click [here](https://github.com/cr-booker/Furusato-restaurant-page/blob/main/LICENSE) for more details.
